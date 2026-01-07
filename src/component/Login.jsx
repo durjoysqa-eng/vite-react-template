@@ -22,8 +22,10 @@ const Login = () => {
           <button type="submit">Login</button>
         </form>
         <p className="signup-text">
-          Don't have an account? <a href="#">Sign Up</a>
+          Don't have an account? <a href="#">Sign Up!!!!!</a>
         </p>
+
+        <p>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
       </div>
     </div>
   );
